@@ -5,3 +5,5 @@ Username = Varchar
 Emailadress = Varchar
 Mobilenumber = Varchar
 Password = Varchar
+
+Currently no Authentications.
